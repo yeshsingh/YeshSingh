@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **herculesyash1914@gmail.com**
 
-- ⚡ Fun fact **I have been doing CP for 2 years but still I am 1100 on codeforces :_(**
+- ⚡ Fun fact **I have been doing CP for 2 years but still I am 1300 on codeforces :_(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
