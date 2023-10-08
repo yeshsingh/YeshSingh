@@ -1,5 +1,5 @@
 [![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg)
-<h1 align="center">Hi 👋, I'm YESH SINGH</h1>
+<h1 align="center">Hey 👋, I'm YESH SINGH</h1>
 <h3 align="center">A passionate Competitive Coder & Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/947/911/desktop-wallpaper-full-stack-developer-vectors-illustrations-for-full-stack-developer.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yeshsingh" /> </p>
